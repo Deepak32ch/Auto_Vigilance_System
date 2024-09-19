@@ -1,6 +1,6 @@
 # Auto_Vigilance_System
-    This is my CDAC project. The "AutoWatch Vigilance" 
-project is an embedded system designed to enhance the security of 
+    This is my CDAC project.
+The "AutoWatch Vigilance" project is an embedded system designed to enhance the security of 
 automobiles by providing advanced theft detection and 
 prevention capabilities. The project leverages the power 
 of embedded systems, specifically utilizing an ESP32 
